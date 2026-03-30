@@ -1,7 +1,3 @@
-The context in which this is written makes for a perfect addition! Since this README will be your first assignment as a Student Digital Ambassador, it should have the appearance of being a professional, welcoming document that will serve as a template for your peers to follow. 
-
-Here is your revised README.md specifically for you in your capacity as a Student Digital Ambassador. 
-
 Student Digital Ambassador: The Literacy Portfolio of VIT Bhopal University's Batch 2025-2029 will provide you with the ability to access digital work and how to communicate with others safely in all areas of your life.
 
 Hello and welcome! My name is Shaurya Gupta; I am proud to announce my selection as a Student Digital Ambassador for VIT Bhopal. I look forward to assisting my peers in learning how digital tools can create a successful online presence and how to use them securely!
