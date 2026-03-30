@@ -40,7 +40,7 @@ Explore the Assets: See how I used free tools like Canva to create professional 
 
 Follow the Checklist: Use the Task 5 security guidelines to protect your own accounts.
 
-About the Ambassador
+
 Name: Shaurya Gupta
 
 Reg No: 25BCE11237
